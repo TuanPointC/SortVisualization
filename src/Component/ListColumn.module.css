@@ -1,0 +1,19 @@
+/* .listColumn{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: fit-content;
+    margin: 20px auto;
+    margin-bottom: 40px;
+    transition: all 0.7s ease-in-out;
+    height: 400px;
+} */
+
+.listColumn{
+    min-width: fit-content;
+    margin: 20px auto;
+    margin-bottom: 40px;
+    transition: all 0.7s ease-in-out;
+    height: 400px;
+    position: relative;
+}
